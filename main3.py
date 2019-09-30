@@ -56,7 +56,7 @@ class Window(arcade.Window):
                 a.dx = c.dx
                 a.dy = c.dy
                 c.dx = tx
-                c.dy = ty  
+                c.dy = ty
                 # implement conservation of momentum here
                 # pass just does nothing. After you add your code, ou can delete what is now on line 56
                 pass
